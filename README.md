@@ -6,7 +6,7 @@
 
 A meticulously crafted dark theme for Visual Studio Code, inspired by the popular Bogster theme from the Helix editor. Experience a modern, borderless design that's easy on the eyes during those long coding sessions.
 
-![Theme Preview](examples/typescript.png)
+![Theme Preview](https://raw.githubusercontent.com/pyboosted/vscode-hx-bogster/main/examples/typescript.png)
 
 ## ✨ Features
 
@@ -20,19 +20,19 @@ A meticulously crafted dark theme for Visual Studio Code, inspired by the popula
 ## 📸 Screenshots
 
 ### TypeScript
-![TypeScript Example](examples/typescript.png)
+![TypeScript Example](https://raw.githubusercontent.com/pyboosted/vscode-hx-bogster/main/examples/typescript.png)
 
 ### React / JSX
-![React Example](examples/react.png)
+![React Example](https://raw.githubusercontent.com/pyboosted/vscode-hx-bogster/main/examples/react.png)
 
 ### HTML / CSS
-![HTML/CSS Example](examples/html.png)
+![HTML/CSS Example](https://raw.githubusercontent.com/pyboosted/vscode-hx-bogster/main/examples/html.png)
 
 ### Terminal
-![Terminal Example](examples/terminal.png)
+![Terminal Example](https://raw.githubusercontent.com/pyboosted/vscode-hx-bogster/main/examples/terminal.png)
 
 ### AI Assistant Integration
-![Claude Integration](examples/claude.png)
+![Claude Integration](https://raw.githubusercontent.com/pyboosted/vscode-hx-bogster/main/examples/claude.png)
 
 ## 🚀 Installation
 
@@ -49,21 +49,21 @@ code --install-extension boosted.helix-bogster-theme
 ```
 
 ### Manual Installation
-1. Download the `.vsix` file from [Releases](https://github.com/your-username/vscode-hx-bogster/releases)
+1. Download the `.vsix` file from [Releases](https://github.com/pyboosted/vscode-hx-bogster/releases)
 2. Run: `code --install-extension helix-bogster-theme-*.vsix`
 
 ## 🎨 Color Palette
 
-| Syntax | Color | Hex | Sample |
-|--------|-------|-----|---------|
-| Background | Dark Blue-Gray | `#13181e` | ![#13181e](https://via.placeholder.com/15/13181e/000000?text=+) |
-| Foreground | Light Cream | `#e5ded6` | ![#e5ded6](https://via.placeholder.com/15/e5ded6/000000?text=+) |
-| Comments | Muted Cyan | `#59dcb7` | ![#59dcb7](https://via.placeholder.com/15/59dcb7/000000?text=+) |
-| Keywords | Golden Yellow | `#dcb659` | ![#dcb659](https://via.placeholder.com/15/dcb659/000000?text=+) |
-| Strings | Aqua Green | `#59dcb7` | ![#59dcb7](https://via.placeholder.com/15/59dcb7/000000?text=+) |
-| Functions | Sky Blue | `#59dcd8` | ![#59dcd8](https://via.placeholder.com/15/59dcd8/000000?text=+) |
-| Types | Soft Pink | `#dc597f` | ![#dc597f](https://via.placeholder.com/15/dc597f/000000?text=+) |
-| Errors | Bright Pink | `#ee4d7f` | ![#ee4d7f](https://via.placeholder.com/15/ee4d7f/000000?text=+) |
+| Syntax | Color | Hex |
+|--------|-------|-----|
+| Background | Dark Blue-Gray | `#13181e` |
+| Foreground | Light Cream | `#e5ded6` |
+| Comments | Muted Cyan | `#59dcb7` |
+| Keywords | Golden Yellow | `#dcb659` |
+| Strings | Aqua Green | `#59dcb7` |
+| Functions | Sky Blue | `#59dcd8` |
+| Types | Soft Pink | `#dc597f` |
+| Errors | Bright Pink | `#ee4d7f` |
 
 ## 🛠️ Customization
 
@@ -99,7 +99,7 @@ cat ghostty-bogster-theme >> ~/.config/ghostty/config
 ## 🤝 Contributing
 
 Found a bug or have a suggestion? Feel free to:
-- [Open an issue](https://github.com/your-username/vscode-hx-bogster/issues)
+- [Open an issue](https://github.com/pyboosted/vscode-hx-bogster/issues)
 - Submit a pull request
 - Share your screenshots!
 
@@ -118,6 +118,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 **Enjoy coding with Bogster!** 🚀
 
 If you like this theme, please consider:
-- ⭐ Starring the [GitHub repository](https://github.com/your-username/vscode-hx-bogster)
+- ⭐ Starring the [GitHub repository](https://github.com/pyboosted/vscode-hx-bogster)
 - 📝 Leaving a [review on the Marketplace](https://marketplace.visualstudio.com/items?itemName=boosted.helix-bogster-theme)
 - 🐛 Reporting any issues you find

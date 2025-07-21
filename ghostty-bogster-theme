@@ -1,0 +1,46 @@
+# Bogster Theme for Ghostty
+# Based on the Helix editor Bogster color scheme
+# Author: Wojciech Kępka <wojciech@wkepka.dev>
+
+# Background and foreground
+background = #13181e
+foreground = #e5ded6
+
+# Cursor
+cursor-color = #abb2bf
+
+# Selection
+selection-background = #313f4e
+selection-foreground = #e5ded6
+
+# Black
+palette = 0=#13181e
+palette = 8=#415367
+
+# Red  
+palette = 1=#d32c5d
+palette = 9=#dc597f
+
+# Green
+palette = 2=#7fdc59
+palette = 10=#7fdc59
+
+# Yellow
+palette = 3=#dcb659
+palette = 11=#dcb659
+
+# Blue
+palette = 4=#36b2d4
+palette = 12=#59dcd8
+
+# Magenta
+palette = 5=#b759dc
+palette = 13=#b759dc
+
+# Cyan
+palette = 6=#59dcb7
+palette = 14=#59dcd8
+
+# White
+palette = 7=#e5ded6
+palette = 15=#e5ded6
