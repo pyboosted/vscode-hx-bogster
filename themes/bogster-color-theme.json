@@ -126,6 +126,7 @@
     "editorOverviewRuler.errorForeground": "#ee4d7f",
     "editorOverviewRuler.warningForeground": "#dc7759",
     "editorOverviewRuler.infoForeground": "#00DFB5",
+    "editorOverviewRuler.modifiedForeground": "#dcb659",
     
     "problemsErrorIcon.foreground": "#ee4d7f",
     "problemsWarningIcon.foreground": "#dc7759",
@@ -143,7 +144,7 @@
     "notificationsInfoIcon.foreground": "#00DFB5",
     
     "editorGutter.addedBackground": "#00DFB5",
-    "editorGutter.modifiedBackground": "#dc7759",
+    "editorGutter.modifiedBackground": "#dcb659",
     "editorGutter.deletedBackground": "#ee4d7f",
     
     "diffEditor.insertedTextBackground": "#00DFB533",
