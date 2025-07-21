@@ -149,7 +149,7 @@
     "diffEditor.insertedTextBackground": "#00DFB533",
     "diffEditor.removedTextBackground": "#ee4d7f33",
     
-    "gitDecoration.modifiedResourceForeground": "#dc7759",
+    "gitDecoration.modifiedResourceForeground": "#dcb659",
     "gitDecoration.deletedResourceForeground": "#ee4d7f",
     "gitDecoration.untrackedResourceForeground": "#00DFB5",
     "gitDecoration.ignoredResourceForeground": "#415367",
