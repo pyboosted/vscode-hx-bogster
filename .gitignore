@@ -1,0 +1,15 @@
+node_modules/
+*.vsix
+.DS_Store
+.vscode-test/
+.env
+.env.local
+*.log
+npm-debug.log*
+dist/
+out/
+.idea/
+*.swp
+*.swo
+*~
+.claude/

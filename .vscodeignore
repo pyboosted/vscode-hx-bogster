@@ -1,0 +1,15 @@
+# Files to exclude from the published extension
+.vscode/**
+.vscode-test/**
+.gitignore
+.git/**
+.github/**
+node_modules/**
+*.vsix
+.DS_Store
+examples/**
+demos/**
+.claude/**
+*.log
+.env
+.env.local

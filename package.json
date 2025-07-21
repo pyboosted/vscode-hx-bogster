@@ -1,0 +1,52 @@
+{
+  "name": "helix-bogster-theme",
+  "displayName": "Helix Bogster Theme",
+  "description": "A VS Code theme based on the Helix editor Bogster color scheme",
+  "version": "1.0.0",
+  "publisher": "boosted",
+  "author": {
+    "name": "Your Name"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "bogster",
+    "helix",
+    "color theme",
+    "helix editor",
+    "borderless"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#161c23",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bogster",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bogster-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/vscode-hx-bogster"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/vscode-hx-bogster/issues"
+  },
+  "homepage": "https://github.com/your-username/vscode-hx-bogster#readme",
+  "license": "MIT",
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  }
+}
