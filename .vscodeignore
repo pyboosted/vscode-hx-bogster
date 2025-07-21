@@ -13,3 +13,5 @@ demos/**
 *.log
 .env
 .env.local
+ghostty-bogster-theme
+GHOSTTY_INSTALL.md
